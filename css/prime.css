@@ -1,0 +1,47 @@
+ @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@600&display=swap');
+ *{font-family: 'Source Code Pro', monospace;
+
+ font-size:14px;
+ }
+ 
+ .button1{padding:8px 40px 8px 40px;outline:none;background:red;color:orange;font-size:15px;font-family:arial;font-weight:bold;border:2px solid red;margin-top:25px;}
+ .navbar{margin-left:30px;}
+ .main-div{padding:60px 0px 60px 0px;}
+ .foot{background:lightgray;margin-top:10px;height:200px;}
+
+.table-sav{width:40%;margin-top:10px;}
+.table-register{width:70%;margin-top:10px;}
+.submit{padding:5px 25px 5px 25px;outline:none;background:red;color:orange;font-size:15px;font-family:arial;font-weight:bold;border:2px solid red;margin-top:10px;border-radius:20px;}
+.about-word{font-family:arial;font-weight:bold;}
+.horizontal-line{width:100%;padding:1px 0px 1px 0px; background:lightgrey;}
+.acc-saving-acc{background:orange;width:100%;margin-top:7px;}
+.common-button{background:red;width:15%;height:50px;border:none;border-radius:10px;margin-left:25px;color:orange;}
+
+/*.sav-button{background:red;width:15%;height:15%;border:none;border-radius:10px;margin-left:35px}*/
+
+.ac-table td{
+	
+font-size:10px;
+font-weight:bold;
+color:orange;
+text-align:center;
+border : 1px solid orange;	
+	
+}
+
+
+.loan-table td{
+	
+font-size:10px;
+font-weight:bold;
+color:black;
+text-align:center;
+border : 1px solid orange;	
+	
+}
+.drop{border-radius:0px;border:none;padding-top:0px;}
+
+.drop .dropdown-item{
+	outline:none;background:red;color:orange;font-size:15px;font-family:arial;font-weight:bold;border:2px solid red;
+	
+}
